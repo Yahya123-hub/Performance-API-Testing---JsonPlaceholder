@@ -1,0 +1,25 @@
+Started by user [8mha:////4LQzxLLmOhjHwaliDkPVWQT8Oy0aawPS40YyNG/eAP5LAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Running as SYSTEM
+Building in workspace C:\ProgramData\Jenkins\.jenkins\workspace\JMeterPerformanceTest
+[JMeterPerformanceTest] $ cmd /c call C:\Windows\TEMP\jenkins2522409138786540976.bat
+
+C:\ProgramData\Jenkins\.jenkins\workspace\JMeterPerformanceTest>C:\Jmeter\bin\jmeter.bat -n -t C:\Jmeter\bin\jsonplaceholder2.jmx -l C:\Jmeter\bin\results_${BUILD_NUMBER}.jtl -e -o C:\Jmeter\bin\report_${BUILD_NUMBER} 
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+Creating summariser <summary>
+Error in NonGUIDriver java.lang.IllegalArgumentException: Results file:C:\Jmeter\bin\results_${BUILD_NUMBER}.jtl is not empty
+An error occurred: Error in NonGUIDriver Results file:C:\Jmeter\bin\results_${BUILD_NUMBER}.jtl is not empty
+errorlevel=1
+Press any key to continue . . . 
+Build step 'Execute Windows batch command' marked build as failure
+Creating parser with percentiles:'0,50,90,95,100,' filterRegex:
+Performance: Recording JMeterCsv reports 'C:\ProgramData\Jenkins\.jenkins\jobs\JMeterPerformanceTest\builds\10\temp\results.jtl'
+Performance: JMeterCsv copying reports to master, files '[C:\ProgramData\Jenkins\.jenkins\jobs\JMeterPerformanceTest\builds\10\temp\results.jtl]'
+Performance: JMeterCsv parsing local reports '[C:\ProgramData\Jenkins\.jenkins\jobs\JMeterPerformanceTest\builds\10\performance-reports\JMeterCSV\results.jtl]'
+Performance: Parsing report file 'C:\ProgramData\Jenkins\.jenkins\jobs\JMeterPerformanceTest\builds\10\performance-reports\JMeterCSV\results.jtl' with filterRegex ''.
+Performance: No threshold configured for making the test unstable
+Performance: No threshold configured for making the test failure
+Performance: File results.jtl reported 0.212% of errors [SUCCESS]. Build status is: FAILURE
+Finished: FAILURE

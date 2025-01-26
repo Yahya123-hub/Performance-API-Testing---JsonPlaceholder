@@ -1,0 +1,218 @@
+<?xml version="1.0"?>
+<results>
+<absoluteDefinition>
+	<unstable>-1</unstable>
+	<failed>-1</failed>
+	<calculated>0.0</calculated>
+</absoluteDefinition>
+<average>
+	<Delete Post>
+		<currentBuildAvg>407</currentBuildAvg>
+	</Delete Post>
+	<Get Albums Photos>
+		<currentBuildAvg>206</currentBuildAvg>
+	</Get Albums Photos>
+	<Get Post Comments>
+		<currentBuildAvg>204</currentBuildAvg>
+	</Get Post Comments>
+	<Get Post Comments By Id>
+		<currentBuildAvg>306</currentBuildAvg>
+	</Get Post Comments By Id>
+	<Get Posts>
+		<currentBuildAvg>931</currentBuildAvg>
+	</Get Posts>
+	<Get Posts By Id>
+		<currentBuildAvg>202</currentBuildAvg>
+	</Get Posts By Id>
+	<Get User Albums >
+		<currentBuildAvg>198</currentBuildAvg>
+	</Get User Albums >
+	<Get User Todos>
+		<currentBuildAvg>377</currentBuildAvg>
+	</Get User Todos>
+	<Options Albums Photos>
+		<currentBuildAvg>352</currentBuildAvg>
+	</Options Albums Photos>
+	<Options User Albums >
+		<currentBuildAvg>410</currentBuildAvg>
+	</Options User Albums >
+	<Options User Todos>
+		<currentBuildAvg>407</currentBuildAvg>
+	</Options User Todos>
+	<Post Albums Photos>
+		<currentBuildAvg>1285</currentBuildAvg>
+	</Post Albums Photos>
+	<Post Request>
+		<currentBuildAvg>407</currentBuildAvg>
+	</Post Request>
+	<Post User Albums >
+		<currentBuildAvg>352</currentBuildAvg>
+	</Post User Albums >
+	<Post User Posts>
+		<currentBuildAvg>408</currentBuildAvg>
+	</Post User Posts>
+	<Post User Todos>
+		<currentBuildAvg>511</currentBuildAvg>
+	</Post User Todos>
+	<Put Post request>
+		<currentBuildAvg>411</currentBuildAvg>
+	</Put Post request>
+</average>
+<median>
+	<Delete Post>
+		<currentBuildMed>407</currentBuildMed>
+	</Delete Post>
+	<Get Albums Photos>
+		<currentBuildMed>206</currentBuildMed>
+	</Get Albums Photos>
+	<Get Post Comments>
+		<currentBuildMed>204</currentBuildMed>
+	</Get Post Comments>
+	<Get Post Comments By Id>
+		<currentBuildMed>306</currentBuildMed>
+	</Get Post Comments By Id>
+	<Get Posts>
+		<currentBuildMed>931</currentBuildMed>
+	</Get Posts>
+	<Get Posts By Id>
+		<currentBuildMed>202</currentBuildMed>
+	</Get Posts By Id>
+	<Get User Albums >
+		<currentBuildMed>198</currentBuildMed>
+	</Get User Albums >
+	<Get User Todos>
+		<currentBuildMed>377</currentBuildMed>
+	</Get User Todos>
+	<Options Albums Photos>
+		<currentBuildMed>352</currentBuildMed>
+	</Options Albums Photos>
+	<Options User Albums >
+		<currentBuildMed>410</currentBuildMed>
+	</Options User Albums >
+	<Options User Todos>
+		<currentBuildMed>407</currentBuildMed>
+	</Options User Todos>
+	<Post Albums Photos>
+		<currentBuildMed>1285</currentBuildMed>
+	</Post Albums Photos>
+	<Post Request>
+		<currentBuildMed>407</currentBuildMed>
+	</Post Request>
+	<Post User Albums >
+		<currentBuildMed>352</currentBuildMed>
+	</Post User Albums >
+	<Post User Posts>
+		<currentBuildMed>408</currentBuildMed>
+	</Post User Posts>
+	<Post User Todos>
+		<currentBuildMed>511</currentBuildMed>
+	</Post User Todos>
+	<Put Post request>
+		<currentBuildMed>411</currentBuildMed>
+	</Put Post request>
+</median>
+<percentile>
+	<Delete Post>
+		<currentBuild90Line>407</currentBuild90Line>
+	</Delete Post>
+	<Delete Post>
+		<currentBuild95Line>407</currentBuild95Line>
+	</Delete Post>
+	<Get Albums Photos>
+		<currentBuild90Line>206</currentBuild90Line>
+	</Get Albums Photos>
+	<Get Albums Photos>
+		<currentBuild95Line>206</currentBuild95Line>
+	</Get Albums Photos>
+	<Get Post Comments>
+		<currentBuild90Line>204</currentBuild90Line>
+	</Get Post Comments>
+	<Get Post Comments>
+		<currentBuild95Line>204</currentBuild95Line>
+	</Get Post Comments>
+	<Get Post Comments By Id>
+		<currentBuild90Line>306</currentBuild90Line>
+	</Get Post Comments By Id>
+	<Get Post Comments By Id>
+		<currentBuild95Line>306</currentBuild95Line>
+	</Get Post Comments By Id>
+	<Get Posts>
+		<currentBuild90Line>931</currentBuild90Line>
+	</Get Posts>
+	<Get Posts>
+		<currentBuild95Line>931</currentBuild95Line>
+	</Get Posts>
+	<Get Posts By Id>
+		<currentBuild90Line>202</currentBuild90Line>
+	</Get Posts By Id>
+	<Get Posts By Id>
+		<currentBuild95Line>202</currentBuild95Line>
+	</Get Posts By Id>
+	<Get User Albums >
+		<currentBuild90Line>198</currentBuild90Line>
+	</Get User Albums >
+	<Get User Albums >
+		<currentBuild95Line>198</currentBuild95Line>
+	</Get User Albums >
+	<Get User Todos>
+		<currentBuild90Line>377</currentBuild90Line>
+	</Get User Todos>
+	<Get User Todos>
+		<currentBuild95Line>377</currentBuild95Line>
+	</Get User Todos>
+	<Options Albums Photos>
+		<currentBuild90Line>352</currentBuild90Line>
+	</Options Albums Photos>
+	<Options Albums Photos>
+		<currentBuild95Line>352</currentBuild95Line>
+	</Options Albums Photos>
+	<Options User Albums >
+		<currentBuild90Line>410</currentBuild90Line>
+	</Options User Albums >
+	<Options User Albums >
+		<currentBuild95Line>410</currentBuild95Line>
+	</Options User Albums >
+	<Options User Todos>
+		<currentBuild90Line>407</currentBuild90Line>
+	</Options User Todos>
+	<Options User Todos>
+		<currentBuild95Line>407</currentBuild95Line>
+	</Options User Todos>
+	<Post Albums Photos>
+		<currentBuild90Line>1285</currentBuild90Line>
+	</Post Albums Photos>
+	<Post Albums Photos>
+		<currentBuild95Line>1285</currentBuild95Line>
+	</Post Albums Photos>
+	<Post Request>
+		<currentBuild90Line>407</currentBuild90Line>
+	</Post Request>
+	<Post Request>
+		<currentBuild95Line>407</currentBuild95Line>
+	</Post Request>
+	<Post User Albums >
+		<currentBuild90Line>352</currentBuild90Line>
+	</Post User Albums >
+	<Post User Albums >
+		<currentBuild95Line>352</currentBuild95Line>
+	</Post User Albums >
+	<Post User Posts>
+		<currentBuild90Line>408</currentBuild90Line>
+	</Post User Posts>
+	<Post User Posts>
+		<currentBuild95Line>408</currentBuild95Line>
+	</Post User Posts>
+	<Post User Todos>
+		<currentBuild90Line>511</currentBuild90Line>
+	</Post User Todos>
+	<Post User Todos>
+		<currentBuild95Line>511</currentBuild95Line>
+	</Post User Todos>
+	<Put Post request>
+		<currentBuild90Line>411</currentBuild90Line>
+	</Put Post request>
+	<Put Post request>
+		<currentBuild95Line>411</currentBuild95Line>
+	</Put Post request>
+</percentile>
+</results>

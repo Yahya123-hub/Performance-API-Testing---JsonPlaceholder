@@ -1,0 +1,28 @@
+Started by timer
+Running as SYSTEM
+Building in workspace C:\ProgramData\Jenkins\.jenkins\workspace\JMeterPerformanceTest
+[JMeterPerformanceTest] $ cmd /c call C:\Windows\TEMP\jenkins18188349790355672416.bat
+
+C:\ProgramData\Jenkins\.jenkins\workspace\JMeterPerformanceTest>C:\Jmeter\bin\jmeter.bat -n -t C:\Jmeter\bin\jsonplaceholder2.jmx -l C:\Jmeter\bin\results_27.jtl -e -o C:\Jmeter\bin\report_27 
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+Creating summariser <summary>
+Created the tree successfully using C:\Jmeter\bin\jsonplaceholder2.jmx
+Starting standalone test @ 2025 Jan 18 21:56:02 GMT+05:00 (1737219362535)
+Waiting for possible Shutdown/StopTestNow/HeapDump/ThreadDump message on port 4445
+summary +      1 in 00:00:01 =    0.7/s Avg:  1183 Min:  1183 Max:  1183 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+summary +     84 in 00:00:13 =    6.4/s Avg:   367 Min:   145 Max:   991 Err:     3 (3.57%) Active: 0 Started: 5 Finished: 5
+summary =     85 in 00:00:15 =    5.8/s Avg:   377 Min:   145 Max:  1183 Err:     3 (3.53%)
+Tidying up ...    @ 2025 Jan 18 21:56:17 GMT+05:00 (1737219377242)
+... end of run
+Creating parser with percentiles:'0,50,90,95,100,' filterRegex:
+Performance: Recording JMeterCsv reports 'C:\ProgramData\Jenkins\.jenkins\jobs\JMeterPerformanceTest\builds\27\temp\results.jtl'
+Performance: JMeterCsv copying reports to master, files '[C:\ProgramData\Jenkins\.jenkins\jobs\JMeterPerformanceTest\builds\27\temp\results.jtl]'
+Performance: JMeterCsv parsing local reports '[C:\ProgramData\Jenkins\.jenkins\jobs\JMeterPerformanceTest\builds\27\performance-reports\JMeterCSV\results.jtl]'
+Performance: Parsing report file 'C:\ProgramData\Jenkins\.jenkins\jobs\JMeterPerformanceTest\builds\27\performance-reports\JMeterCSV\results.jtl' with filterRegex ''.
+Performance: No threshold configured for making the test unstable
+Performance: No threshold configured for making the test failure
+Performance: File results.jtl reported 0.212% of errors [SUCCESS]. Build status is: SUCCESS
+Finished: SUCCESS

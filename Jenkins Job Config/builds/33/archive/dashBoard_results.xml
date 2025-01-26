@@ -1,0 +1,830 @@
+<?xml version="1.0"?>
+<results>
+<absoluteDefinition>
+	<unstable>-1</unstable>
+	<failed>-1</failed>
+	<calculated>0.212</calculated>
+</absoluteDefinition>
+<average>
+	<C Delete Post>
+		<currentBuildAvg>361</currentBuildAvg>
+	</C Delete Post>
+	<C Get Albums Photos>
+		<currentBuildAvg>199</currentBuildAvg>
+	</C Get Albums Photos>
+	<C Get Post Comments>
+		<currentBuildAvg>178</currentBuildAvg>
+	</C Get Post Comments>
+	<C Get Post Comments By Id>
+		<currentBuildAvg>178</currentBuildAvg>
+	</C Get Post Comments By Id>
+	<C Get Posts>
+		<currentBuildAvg>222</currentBuildAvg>
+	</C Get Posts>
+	<C Get Posts By Id>
+		<currentBuildAvg>172</currentBuildAvg>
+	</C Get Posts By Id>
+	<C Get User Albums >
+		<currentBuildAvg>172</currentBuildAvg>
+	</C Get User Albums >
+	<C Get User Todos>
+		<currentBuildAvg>181</currentBuildAvg>
+	</C Get User Todos>
+	<C Options Albums Photos>
+		<currentBuildAvg>397</currentBuildAvg>
+	</C Options Albums Photos>
+	<C Options User Albums >
+		<currentBuildAvg>735</currentBuildAvg>
+	</C Options User Albums >
+	<C Options User Todos>
+		<currentBuildAvg>25153</currentBuildAvg>
+	</C Options User Todos>
+	<C Post Albums Photos>
+		<currentBuildAvg>360</currentBuildAvg>
+	</C Post Albums Photos>
+	<C Post Request>
+		<currentBuildAvg>371</currentBuildAvg>
+	</C Post Request>
+	<C Post User Albums >
+		<currentBuildAvg>363</currentBuildAvg>
+	</C Post User Albums >
+	<C Post User Posts>
+		<currentBuildAvg>365</currentBuildAvg>
+	</C Post User Posts>
+	<C Post User Todos>
+		<currentBuildAvg>361</currentBuildAvg>
+	</C Post User Todos>
+	<C Put Post request>
+		<currentBuildAvg>362</currentBuildAvg>
+	</C Put Post request>
+	<Delete Post>
+		<currentBuildAvg>373</currentBuildAvg>
+	</Delete Post>
+	<Get Albums Photos>
+		<currentBuildAvg>171</currentBuildAvg>
+	</Get Albums Photos>
+	<Get Post Comments>
+		<currentBuildAvg>178</currentBuildAvg>
+	</Get Post Comments>
+	<Get Post Comments By Id>
+		<currentBuildAvg>159</currentBuildAvg>
+	</Get Post Comments By Id>
+	<Get Posts>
+		<currentBuildAvg>24139</currentBuildAvg>
+	</Get Posts>
+	<Get Posts By Id>
+		<currentBuildAvg>167</currentBuildAvg>
+	</Get Posts By Id>
+	<Get User Albums >
+		<currentBuildAvg>1035</currentBuildAvg>
+	</Get User Albums >
+	<Get User Todos>
+		<currentBuildAvg>200</currentBuildAvg>
+	</Get User Todos>
+	<Options Albums Photos>
+		<currentBuildAvg>366</currentBuildAvg>
+	</Options Albums Photos>
+	<Options User Albums >
+		<currentBuildAvg>354</currentBuildAvg>
+	</Options User Albums >
+	<Options User Todos>
+		<currentBuildAvg>342</currentBuildAvg>
+	</Options User Todos>
+	<Post Albums Photos>
+		<currentBuildAvg>355</currentBuildAvg>
+	</Post Albums Photos>
+	<Post Request>
+		<currentBuildAvg>371</currentBuildAvg>
+	</Post Request>
+	<Post User Albums >
+		<currentBuildAvg>376</currentBuildAvg>
+	</Post User Albums >
+	<Post User Posts>
+		<currentBuildAvg>377</currentBuildAvg>
+	</Post User Posts>
+	<Post User Todos>
+		<currentBuildAvg>351</currentBuildAvg>
+	</Post User Todos>
+	<Put Post request>
+		<currentBuildAvg>361</currentBuildAvg>
+	</Put Post request>
+	<S Delete Post>
+		<currentBuildAvg>361</currentBuildAvg>
+	</S Delete Post>
+	<S Get Albums Photos>
+		<currentBuildAvg>190</currentBuildAvg>
+	</S Get Albums Photos>
+	<S Get Post Comments>
+		<currentBuildAvg>186</currentBuildAvg>
+	</S Get Post Comments>
+	<S Get Post Comments By Id>
+		<currentBuildAvg>165</currentBuildAvg>
+	</S Get Post Comments By Id>
+	<S Get Posts>
+		<currentBuildAvg>204</currentBuildAvg>
+	</S Get Posts>
+	<S Get Posts By Id>
+		<currentBuildAvg>162</currentBuildAvg>
+	</S Get Posts By Id>
+	<S Get User Albums >
+		<currentBuildAvg>181</currentBuildAvg>
+	</S Get User Albums >
+	<S Get User Todos>
+		<currentBuildAvg>176</currentBuildAvg>
+	</S Get User Todos>
+	<S Options Albums Photos>
+		<currentBuildAvg>366</currentBuildAvg>
+	</S Options Albums Photos>
+	<S Options User Albums >
+		<currentBuildAvg>634</currentBuildAvg>
+	</S Options User Albums >
+	<S Options User Todos>
+		<currentBuildAvg>22194</currentBuildAvg>
+	</S Options User Todos>
+	<S Post Albums Photos>
+		<currentBuildAvg>353</currentBuildAvg>
+	</S Post Albums Photos>
+	<S Post Request>
+		<currentBuildAvg>354</currentBuildAvg>
+	</S Post Request>
+	<S Post User Albums >
+		<currentBuildAvg>350</currentBuildAvg>
+	</S Post User Albums >
+	<S Post User Posts>
+		<currentBuildAvg>363</currentBuildAvg>
+	</S Post User Posts>
+	<S Post User Todos>
+		<currentBuildAvg>364</currentBuildAvg>
+	</S Post User Todos>
+	<S Put Post request>
+		<currentBuildAvg>363</currentBuildAvg>
+	</S Put Post request>
+	<UTC Delete Post>
+		<currentBuildAvg>393</currentBuildAvg>
+	</UTC Delete Post>
+	<UTC Get Albums Photos>
+		<currentBuildAvg>192</currentBuildAvg>
+	</UTC Get Albums Photos>
+	<UTC Get Post Comments>
+		<currentBuildAvg>173</currentBuildAvg>
+	</UTC Get Post Comments>
+	<UTC Get Post Comments By Id>
+		<currentBuildAvg>177</currentBuildAvg>
+	</UTC Get Post Comments By Id>
+	<UTC Get Posts>
+		<currentBuildAvg>214</currentBuildAvg>
+	</UTC Get Posts>
+	<UTC Get Posts By Id>
+		<currentBuildAvg>169</currentBuildAvg>
+	</UTC Get Posts By Id>
+	<UTC Get User Albums >
+		<currentBuildAvg>174</currentBuildAvg>
+	</UTC Get User Albums >
+	<UTC Get User Todos>
+		<currentBuildAvg>170</currentBuildAvg>
+	</UTC Get User Todos>
+	<UTC Options Albums Photos>
+		<currentBuildAvg>408</currentBuildAvg>
+	</UTC Options Albums Photos>
+	<UTC Options User Albums >
+		<currentBuildAvg>655</currentBuildAvg>
+	</UTC Options User Albums >
+	<UTC Options User Todos>
+		<currentBuildAvg>22934</currentBuildAvg>
+	</UTC Options User Todos>
+	<UTC Post Albums Photos>
+		<currentBuildAvg>359</currentBuildAvg>
+	</UTC Post Albums Photos>
+	<UTC Post Request>
+		<currentBuildAvg>360</currentBuildAvg>
+	</UTC Post Request>
+	<UTC Post User Albums >
+		<currentBuildAvg>360</currentBuildAvg>
+	</UTC Post User Albums >
+	<UTC Post User Posts>
+		<currentBuildAvg>362</currentBuildAvg>
+	</UTC Post User Posts>
+	<UTC Post User Todos>
+		<currentBuildAvg>364</currentBuildAvg>
+	</UTC Post User Todos>
+	<UTC Put Post request>
+		<currentBuildAvg>364</currentBuildAvg>
+	</UTC Put Post request>
+</average>
+<median>
+	<C Delete Post>
+		<currentBuildMed>344</currentBuildMed>
+	</C Delete Post>
+	<C Get Albums Photos>
+		<currentBuildMed>158</currentBuildMed>
+	</C Get Albums Photos>
+	<C Get Post Comments>
+		<currentBuildMed>155</currentBuildMed>
+	</C Get Post Comments>
+	<C Get Post Comments By Id>
+		<currentBuildMed>155</currentBuildMed>
+	</C Get Post Comments By Id>
+	<C Get Posts>
+		<currentBuildMed>163</currentBuildMed>
+	</C Get Posts>
+	<C Get Posts By Id>
+		<currentBuildMed>153</currentBuildMed>
+	</C Get Posts By Id>
+	<C Get User Albums >
+		<currentBuildMed>154</currentBuildMed>
+	</C Get User Albums >
+	<C Get User Todos>
+		<currentBuildMed>155</currentBuildMed>
+	</C Get User Todos>
+	<C Options Albums Photos>
+		<currentBuildMed>341</currentBuildMed>
+	</C Options Albums Photos>
+	<C Options User Albums >
+		<currentBuildMed>341</currentBuildMed>
+	</C Options User Albums >
+	<C Options User Todos>
+		<currentBuildMed>21518</currentBuildMed>
+	</C Options User Todos>
+	<C Post Albums Photos>
+		<currentBuildMed>345</currentBuildMed>
+	</C Post Albums Photos>
+	<C Post Request>
+		<currentBuildMed>345</currentBuildMed>
+	</C Post Request>
+	<C Post User Albums >
+		<currentBuildMed>345</currentBuildMed>
+	</C Post User Albums >
+	<C Post User Posts>
+		<currentBuildMed>344</currentBuildMed>
+	</C Post User Posts>
+	<C Post User Todos>
+		<currentBuildMed>344</currentBuildMed>
+	</C Post User Todos>
+	<C Put Post request>
+		<currentBuildMed>346</currentBuildMed>
+	</C Put Post request>
+	<Delete Post>
+		<currentBuildMed>343</currentBuildMed>
+	</Delete Post>
+	<Get Albums Photos>
+		<currentBuildMed>155</currentBuildMed>
+	</Get Albums Photos>
+	<Get Post Comments>
+		<currentBuildMed>157</currentBuildMed>
+	</Get Post Comments>
+	<Get Post Comments By Id>
+		<currentBuildMed>156</currentBuildMed>
+	</Get Post Comments By Id>
+	<Get Posts>
+		<currentBuildMed>21344</currentBuildMed>
+	</Get Posts>
+	<Get Posts By Id>
+		<currentBuildMed>153</currentBuildMed>
+	</Get Posts By Id>
+	<Get User Albums >
+		<currentBuildMed>154</currentBuildMed>
+	</Get User Albums >
+	<Get User Todos>
+		<currentBuildMed>155</currentBuildMed>
+	</Get User Todos>
+	<Options Albums Photos>
+		<currentBuildMed>341</currentBuildMed>
+	</Options Albums Photos>
+	<Options User Albums >
+		<currentBuildMed>339</currentBuildMed>
+	</Options User Albums >
+	<Options User Todos>
+		<currentBuildMed>340</currentBuildMed>
+	</Options User Todos>
+	<Post Albums Photos>
+		<currentBuildMed>344</currentBuildMed>
+	</Post Albums Photos>
+	<Post Request>
+		<currentBuildMed>344</currentBuildMed>
+	</Post Request>
+	<Post User Albums >
+		<currentBuildMed>344</currentBuildMed>
+	</Post User Albums >
+	<Post User Posts>
+		<currentBuildMed>345</currentBuildMed>
+	</Post User Posts>
+	<Post User Todos>
+		<currentBuildMed>346</currentBuildMed>
+	</Post User Todos>
+	<Put Post request>
+		<currentBuildMed>344</currentBuildMed>
+	</Put Post request>
+	<S Delete Post>
+		<currentBuildMed>344</currentBuildMed>
+	</S Delete Post>
+	<S Get Albums Photos>
+		<currentBuildMed>158</currentBuildMed>
+	</S Get Albums Photos>
+	<S Get Post Comments>
+		<currentBuildMed>155</currentBuildMed>
+	</S Get Post Comments>
+	<S Get Post Comments By Id>
+		<currentBuildMed>155</currentBuildMed>
+	</S Get Post Comments By Id>
+	<S Get Posts>
+		<currentBuildMed>162</currentBuildMed>
+	</S Get Posts>
+	<S Get Posts By Id>
+		<currentBuildMed>153</currentBuildMed>
+	</S Get Posts By Id>
+	<S Get User Albums >
+		<currentBuildMed>154</currentBuildMed>
+	</S Get User Albums >
+	<S Get User Todos>
+		<currentBuildMed>155</currentBuildMed>
+	</S Get User Todos>
+	<S Options Albums Photos>
+		<currentBuildMed>340</currentBuildMed>
+	</S Options Albums Photos>
+	<S Options User Albums >
+		<currentBuildMed>341</currentBuildMed>
+	</S Options User Albums >
+	<S Options User Todos>
+		<currentBuildMed>21518</currentBuildMed>
+	</S Options User Todos>
+	<S Post Albums Photos>
+		<currentBuildMed>345</currentBuildMed>
+	</S Post Albums Photos>
+	<S Post Request>
+		<currentBuildMed>343</currentBuildMed>
+	</S Post Request>
+	<S Post User Albums >
+		<currentBuildMed>343</currentBuildMed>
+	</S Post User Albums >
+	<S Post User Posts>
+		<currentBuildMed>344</currentBuildMed>
+	</S Post User Posts>
+	<S Post User Todos>
+		<currentBuildMed>344</currentBuildMed>
+	</S Post User Todos>
+	<S Put Post request>
+		<currentBuildMed>345</currentBuildMed>
+	</S Put Post request>
+	<UTC Delete Post>
+		<currentBuildMed>344</currentBuildMed>
+	</UTC Delete Post>
+	<UTC Get Albums Photos>
+		<currentBuildMed>158</currentBuildMed>
+	</UTC Get Albums Photos>
+	<UTC Get Post Comments>
+		<currentBuildMed>155</currentBuildMed>
+	</UTC Get Post Comments>
+	<UTC Get Post Comments By Id>
+		<currentBuildMed>155</currentBuildMed>
+	</UTC Get Post Comments By Id>
+	<UTC Get Posts>
+		<currentBuildMed>161</currentBuildMed>
+	</UTC Get Posts>
+	<UTC Get Posts By Id>
+		<currentBuildMed>153</currentBuildMed>
+	</UTC Get Posts By Id>
+	<UTC Get User Albums >
+		<currentBuildMed>154</currentBuildMed>
+	</UTC Get User Albums >
+	<UTC Get User Todos>
+		<currentBuildMed>155</currentBuildMed>
+	</UTC Get User Todos>
+	<UTC Options Albums Photos>
+		<currentBuildMed>341</currentBuildMed>
+	</UTC Options Albums Photos>
+	<UTC Options User Albums >
+		<currentBuildMed>341</currentBuildMed>
+	</UTC Options User Albums >
+	<UTC Options User Todos>
+		<currentBuildMed>21516</currentBuildMed>
+	</UTC Options User Todos>
+	<UTC Post Albums Photos>
+		<currentBuildMed>344</currentBuildMed>
+	</UTC Post Albums Photos>
+	<UTC Post Request>
+		<currentBuildMed>344</currentBuildMed>
+	</UTC Post Request>
+	<UTC Post User Albums >
+		<currentBuildMed>344</currentBuildMed>
+	</UTC Post User Albums >
+	<UTC Post User Posts>
+		<currentBuildMed>344</currentBuildMed>
+	</UTC Post User Posts>
+	<UTC Post User Todos>
+		<currentBuildMed>344</currentBuildMed>
+	</UTC Post User Todos>
+	<UTC Put Post request>
+		<currentBuildMed>346</currentBuildMed>
+	</UTC Put Post request>
+</median>
+<percentile>
+	<C Delete Post>
+		<currentBuild90Line>361</currentBuild90Line>
+	</C Delete Post>
+	<C Delete Post>
+		<currentBuild95Line>374</currentBuild95Line>
+	</C Delete Post>
+	<C Get Albums Photos>
+		<currentBuild90Line>311</currentBuild90Line>
+	</C Get Albums Photos>
+	<C Get Albums Photos>
+		<currentBuild95Line>413</currentBuild95Line>
+	</C Get Albums Photos>
+	<C Get Post Comments>
+		<currentBuild90Line>176</currentBuild90Line>
+	</C Get Post Comments>
+	<C Get Post Comments>
+		<currentBuild95Line>319</currentBuild95Line>
+	</C Get Post Comments>
+	<C Get Post Comments By Id>
+		<currentBuild90Line>176</currentBuild90Line>
+	</C Get Post Comments By Id>
+	<C Get Post Comments By Id>
+		<currentBuild95Line>296</currentBuild95Line>
+	</C Get Post Comments By Id>
+	<C Get Posts>
+		<currentBuild90Line>339</currentBuild90Line>
+	</C Get Posts>
+	<C Get Posts>
+		<currentBuild95Line>457</currentBuild95Line>
+	</C Get Posts>
+	<C Get Posts By Id>
+		<currentBuild90Line>170</currentBuild90Line>
+	</C Get Posts By Id>
+	<C Get Posts By Id>
+		<currentBuild95Line>191</currentBuild95Line>
+	</C Get Posts By Id>
+	<C Get User Albums >
+		<currentBuild90Line>170</currentBuild90Line>
+	</C Get User Albums >
+	<C Get User Albums >
+		<currentBuild95Line>184</currentBuild95Line>
+	</C Get User Albums >
+	<C Get User Todos>
+		<currentBuild90Line>180</currentBuild90Line>
+	</C Get User Todos>
+	<C Get User Todos>
+		<currentBuild95Line>333</currentBuild95Line>
+	</C Get User Todos>
+	<C Options Albums Photos>
+		<currentBuild90Line>359</currentBuild90Line>
+	</C Options Albums Photos>
+	<C Options Albums Photos>
+		<currentBuild95Line>373</currentBuild95Line>
+	</C Options Albums Photos>
+	<C Options User Albums >
+		<currentBuild90Line>361</currentBuild90Line>
+	</C Options User Albums >
+	<C Options User Albums >
+		<currentBuild95Line>403</currentBuild95Line>
+	</C Options User Albums >
+	<C Options User Todos>
+		<currentBuild90Line>21660</currentBuild90Line>
+	</C Options User Todos>
+	<C Options User Todos>
+		<currentBuild95Line>22507</currentBuild95Line>
+	</C Options User Todos>
+	<C Post Albums Photos>
+		<currentBuild90Line>362</currentBuild90Line>
+	</C Post Albums Photos>
+	<C Post Albums Photos>
+		<currentBuild95Line>378</currentBuild95Line>
+	</C Post Albums Photos>
+	<C Post Request>
+		<currentBuild90Line>365</currentBuild90Line>
+	</C Post Request>
+	<C Post Request>
+		<currentBuild95Line>433</currentBuild95Line>
+	</C Post Request>
+	<C Post User Albums >
+		<currentBuild90Line>362</currentBuild90Line>
+	</C Post User Albums >
+	<C Post User Albums >
+		<currentBuild95Line>371</currentBuild95Line>
+	</C Post User Albums >
+	<C Post User Posts>
+		<currentBuild90Line>368</currentBuild90Line>
+	</C Post User Posts>
+	<C Post User Posts>
+		<currentBuild95Line>401</currentBuild95Line>
+	</C Post User Posts>
+	<C Post User Todos>
+		<currentBuild90Line>364</currentBuild90Line>
+	</C Post User Todos>
+	<C Post User Todos>
+		<currentBuild95Line>378</currentBuild95Line>
+	</C Post User Todos>
+	<C Put Post request>
+		<currentBuild90Line>364</currentBuild90Line>
+	</C Put Post request>
+	<C Put Post request>
+		<currentBuild95Line>396</currentBuild95Line>
+	</C Put Post request>
+	<Delete Post>
+		<currentBuild90Line>359</currentBuild90Line>
+	</Delete Post>
+	<Delete Post>
+		<currentBuild95Line>363</currentBuild95Line>
+	</Delete Post>
+	<Get Albums Photos>
+		<currentBuild90Line>172</currentBuild90Line>
+	</Get Albums Photos>
+	<Get Albums Photos>
+		<currentBuild95Line>189</currentBuild95Line>
+	</Get Albums Photos>
+	<Get Post Comments>
+		<currentBuild90Line>175</currentBuild90Line>
+	</Get Post Comments>
+	<Get Post Comments>
+		<currentBuild95Line>330</currentBuild95Line>
+	</Get Post Comments>
+	<Get Post Comments By Id>
+		<currentBuild90Line>171</currentBuild90Line>
+	</Get Post Comments By Id>
+	<Get Post Comments By Id>
+		<currentBuild95Line>172</currentBuild95Line>
+	</Get Post Comments By Id>
+	<Get Posts>
+		<currentBuild90Line>21861</currentBuild90Line>
+	</Get Posts>
+	<Get Posts>
+		<currentBuild95Line>22014</currentBuild95Line>
+	</Get Posts>
+	<Get Posts By Id>
+		<currentBuild90Line>167</currentBuild90Line>
+	</Get Posts By Id>
+	<Get Posts By Id>
+		<currentBuild95Line>175</currentBuild95Line>
+	</Get Posts By Id>
+	<Get User Albums >
+		<currentBuild90Line>179</currentBuild90Line>
+	</Get User Albums >
+	<Get User Albums >
+		<currentBuild95Line>184</currentBuild95Line>
+	</Get User Albums >
+	<Get User Todos>
+		<currentBuild90Line>176</currentBuild90Line>
+	</Get User Todos>
+	<Get User Todos>
+		<currentBuild95Line>360</currentBuild95Line>
+	</Get User Todos>
+	<Options Albums Photos>
+		<currentBuild90Line>357</currentBuild90Line>
+	</Options Albums Photos>
+	<Options Albums Photos>
+		<currentBuild95Line>518</currentBuild95Line>
+	</Options Albums Photos>
+	<Options User Albums >
+		<currentBuild90Line>356</currentBuild90Line>
+	</Options User Albums >
+	<Options User Albums >
+		<currentBuild95Line>359</currentBuild95Line>
+	</Options User Albums >
+	<Options User Todos>
+		<currentBuild90Line>357</currentBuild90Line>
+	</Options User Todos>
+	<Options User Todos>
+		<currentBuild95Line>357</currentBuild95Line>
+	</Options User Todos>
+	<Post Albums Photos>
+		<currentBuild90Line>357</currentBuild90Line>
+	</Post Albums Photos>
+	<Post Albums Photos>
+		<currentBuild95Line>360</currentBuild95Line>
+	</Post Albums Photos>
+	<Post Request>
+		<currentBuild90Line>362</currentBuild90Line>
+	</Post Request>
+	<Post Request>
+		<currentBuild95Line>385</currentBuild95Line>
+	</Post Request>
+	<Post User Albums >
+		<currentBuild90Line>372</currentBuild90Line>
+	</Post User Albums >
+	<Post User Albums >
+		<currentBuild95Line>433</currentBuild95Line>
+	</Post User Albums >
+	<Post User Posts>
+		<currentBuild90Line>362</currentBuild90Line>
+	</Post User Posts>
+	<Post User Posts>
+		<currentBuild95Line>391</currentBuild95Line>
+	</Post User Posts>
+	<Post User Todos>
+		<currentBuild90Line>363</currentBuild90Line>
+	</Post User Todos>
+	<Post User Todos>
+		<currentBuild95Line>365</currentBuild95Line>
+	</Post User Todos>
+	<Put Post request>
+		<currentBuild90Line>372</currentBuild90Line>
+	</Put Post request>
+	<Put Post request>
+		<currentBuild95Line>375</currentBuild95Line>
+	</Put Post request>
+	<S Delete Post>
+		<currentBuild90Line>362</currentBuild90Line>
+	</S Delete Post>
+	<S Delete Post>
+		<currentBuild95Line>391</currentBuild95Line>
+	</S Delete Post>
+	<S Get Albums Photos>
+		<currentBuild90Line>289</currentBuild90Line>
+	</S Get Albums Photos>
+	<S Get Albums Photos>
+		<currentBuild95Line>358</currentBuild95Line>
+	</S Get Albums Photos>
+	<S Get Post Comments>
+		<currentBuild90Line>197</currentBuild90Line>
+	</S Get Post Comments>
+	<S Get Post Comments>
+		<currentBuild95Line>358</currentBuild95Line>
+	</S Get Post Comments>
+	<S Get Post Comments By Id>
+		<currentBuild90Line>176</currentBuild90Line>
+	</S Get Post Comments By Id>
+	<S Get Post Comments By Id>
+		<currentBuild95Line>210</currentBuild95Line>
+	</S Get Post Comments By Id>
+	<S Get Posts>
+		<currentBuild90Line>318</currentBuild90Line>
+	</S Get Posts>
+	<S Get Posts>
+		<currentBuild95Line>348</currentBuild95Line>
+	</S Get Posts>
+	<S Get Posts By Id>
+		<currentBuild90Line>169</currentBuild90Line>
+	</S Get Posts By Id>
+	<S Get Posts By Id>
+		<currentBuild95Line>177</currentBuild95Line>
+	</S Get Posts By Id>
+	<S Get User Albums >
+		<currentBuild90Line>172</currentBuild90Line>
+	</S Get User Albums >
+	<S Get User Albums >
+		<currentBuild95Line>243</currentBuild95Line>
+	</S Get User Albums >
+	<S Get User Todos>
+		<currentBuild90Line>183</currentBuild90Line>
+	</S Get User Todos>
+	<S Get User Todos>
+		<currentBuild95Line>321</currentBuild95Line>
+	</S Get User Todos>
+	<S Options Albums Photos>
+		<currentBuild90Line>359</currentBuild90Line>
+	</S Options Albums Photos>
+	<S Options Albums Photos>
+		<currentBuild95Line>447</currentBuild95Line>
+	</S Options Albums Photos>
+	<S Options User Albums >
+		<currentBuild90Line>357</currentBuild90Line>
+	</S Options User Albums >
+	<S Options User Albums >
+		<currentBuild95Line>370</currentBuild95Line>
+	</S Options User Albums >
+	<S Options User Todos>
+		<currentBuild90Line>21922</currentBuild90Line>
+	</S Options User Todos>
+	<S Options User Todos>
+		<currentBuild95Line>22505</currentBuild95Line>
+	</S Options User Todos>
+	<S Post Albums Photos>
+		<currentBuild90Line>360</currentBuild90Line>
+	</S Post Albums Photos>
+	<S Post Albums Photos>
+		<currentBuild95Line>368</currentBuild95Line>
+	</S Post Albums Photos>
+	<S Post Request>
+		<currentBuild90Line>361</currentBuild90Line>
+	</S Post Request>
+	<S Post Request>
+		<currentBuild95Line>370</currentBuild95Line>
+	</S Post Request>
+	<S Post User Albums >
+		<currentBuild90Line>358</currentBuild90Line>
+	</S Post User Albums >
+	<S Post User Albums >
+		<currentBuild95Line>364</currentBuild95Line>
+	</S Post User Albums >
+	<S Post User Posts>
+		<currentBuild90Line>363</currentBuild90Line>
+	</S Post User Posts>
+	<S Post User Posts>
+		<currentBuild95Line>374</currentBuild95Line>
+	</S Post User Posts>
+	<S Post User Todos>
+		<currentBuild90Line>364</currentBuild90Line>
+	</S Post User Todos>
+	<S Post User Todos>
+		<currentBuild95Line>416</currentBuild95Line>
+	</S Post User Todos>
+	<S Put Post request>
+		<currentBuild90Line>365</currentBuild90Line>
+	</S Put Post request>
+	<S Put Post request>
+		<currentBuild95Line>389</currentBuild95Line>
+	</S Put Post request>
+	<UTC Delete Post>
+		<currentBuild90Line>365</currentBuild90Line>
+	</UTC Delete Post>
+	<UTC Delete Post>
+		<currentBuild95Line>404</currentBuild95Line>
+	</UTC Delete Post>
+	<UTC Get Albums Photos>
+		<currentBuild90Line>301</currentBuild90Line>
+	</UTC Get Albums Photos>
+	<UTC Get Albums Photos>
+		<currentBuild95Line>377</currentBuild95Line>
+	</UTC Get Albums Photos>
+	<UTC Get Post Comments>
+		<currentBuild90Line>175</currentBuild90Line>
+	</UTC Get Post Comments>
+	<UTC Get Post Comments>
+		<currentBuild95Line>309</currentBuild95Line>
+	</UTC Get Post Comments>
+	<UTC Get Post Comments By Id>
+		<currentBuild90Line>175</currentBuild90Line>
+	</UTC Get Post Comments By Id>
+	<UTC Get Post Comments By Id>
+		<currentBuild95Line>302</currentBuild95Line>
+	</UTC Get Post Comments By Id>
+	<UTC Get Posts>
+		<currentBuild90Line>333</currentBuild90Line>
+	</UTC Get Posts>
+	<UTC Get Posts>
+		<currentBuild95Line>457</currentBuild95Line>
+	</UTC Get Posts>
+	<UTC Get Posts By Id>
+		<currentBuild90Line>169</currentBuild90Line>
+	</UTC Get Posts By Id>
+	<UTC Get Posts By Id>
+		<currentBuild95Line>184</currentBuild95Line>
+	</UTC Get Posts By Id>
+	<UTC Get User Albums >
+		<currentBuild90Line>173</currentBuild90Line>
+	</UTC Get User Albums >
+	<UTC Get User Albums >
+		<currentBuild95Line>208</currentBuild95Line>
+	</UTC Get User Albums >
+	<UTC Get User Todos>
+		<currentBuild90Line>175</currentBuild90Line>
+	</UTC Get User Todos>
+	<UTC Get User Todos>
+		<currentBuild95Line>242</currentBuild95Line>
+	</UTC Get User Todos>
+	<UTC Options Albums Photos>
+		<currentBuild90Line>361</currentBuild90Line>
+	</UTC Options Albums Photos>
+	<UTC Options Albums Photos>
+		<currentBuild95Line>380</currentBuild95Line>
+	</UTC Options Albums Photos>
+	<UTC Options User Albums >
+		<currentBuild90Line>360</currentBuild90Line>
+	</UTC Options User Albums >
+	<UTC Options User Albums >
+		<currentBuild95Line>737</currentBuild95Line>
+	</UTC Options User Albums >
+	<UTC Options User Todos>
+		<currentBuild90Line>21584</currentBuild90Line>
+	</UTC Options User Todos>
+	<UTC Options User Todos>
+		<currentBuild95Line>22493</currentBuild95Line>
+	</UTC Options User Todos>
+	<UTC Post Albums Photos>
+		<currentBuild90Line>361</currentBuild90Line>
+	</UTC Post Albums Photos>
+	<UTC Post Albums Photos>
+		<currentBuild95Line>384</currentBuild95Line>
+	</UTC Post Albums Photos>
+	<UTC Post Request>
+		<currentBuild90Line>362</currentBuild90Line>
+	</UTC Post Request>
+	<UTC Post Request>
+		<currentBuild95Line>392</currentBuild95Line>
+	</UTC Post Request>
+	<UTC Post User Albums >
+		<currentBuild90Line>363</currentBuild90Line>
+	</UTC Post User Albums >
+	<UTC Post User Albums >
+		<currentBuild95Line>385</currentBuild95Line>
+	</UTC Post User Albums >
+	<UTC Post User Posts>
+		<currentBuild90Line>361</currentBuild90Line>
+	</UTC Post User Posts>
+	<UTC Post User Posts>
+		<currentBuild95Line>392</currentBuild95Line>
+	</UTC Post User Posts>
+	<UTC Post User Todos>
+		<currentBuild90Line>364</currentBuild90Line>
+	</UTC Post User Todos>
+	<UTC Post User Todos>
+		<currentBuild95Line>388</currentBuild95Line>
+	</UTC Post User Todos>
+	<UTC Put Post request>
+		<currentBuild90Line>366</currentBuild90Line>
+	</UTC Put Post request>
+	<UTC Put Post request>
+		<currentBuild95Line>400</currentBuild95Line>
+	</UTC Put Post request>
+</percentile>
+</results>

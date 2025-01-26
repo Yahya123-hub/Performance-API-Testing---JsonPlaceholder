@@ -1,0 +1,33 @@
+Started by user [8mha:////4LQzxLLmOhjHwaliDkPVWQT8Oy0aawPS40YyNG/eAP5LAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Running as SYSTEM
+Building in workspace C:\ProgramData\Jenkins\.jenkins\workspace\JMeterPerformanceTest
+[JMeterPerformanceTest] $ cmd /c call C:\Windows\TEMP\jenkins17153280912836281754.bat
+
+C:\ProgramData\Jenkins\.jenkins\workspace\JMeterPerformanceTest>C:\Jmeter\bin\jmeter.bat -n -t C:\Jmeter\bin\jsonplaceholder2.jmx -l C:\Jmeter\bin\results_${BUILD_NUMBER}.jtl -e -o C:\Jmeter\bin\report_${BUILD_NUMBER} 
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+Creating summariser <summary>
+Created the tree successfully using C:\Jmeter\bin\jsonplaceholder2.jmx
+Starting standalone test @ 2025 Jan 18 21:22:07 GMT+05:00 (1737217327902)
+Waiting for possible Shutdown/StopTestNow/HeapDump/ThreadDump message on port 4445
+summary +    167 in 00:00:22 =    7.6/s Avg:   393 Min:   149 Max:  2209 Err:     9 (5.39%) Active: 3 Started: 11 Finished: 8
+summary +    261 in 00:00:30 =    8.6/s Avg:   384 Min:   142 Max:  3122 Err:     7 (2.68%) Active: 3 Started: 27 Finished: 24
+summary =    428 in 00:00:52 =    8.2/s Avg:   387 Min:   142 Max:  3122 Err:    16 (3.74%)
+summary +    255 in 00:00:30 =    8.6/s Avg:   349 Min:   142 Max:  1588 Err:     5 (1.96%) Active: 3 Started: 42 Finished: 39
+summary =    683 in 00:01:22 =    8.3/s Avg:   373 Min:   142 Max:  3122 Err:    21 (3.07%)
+summary +    167 in 00:00:22 =    7.7/s Avg:   320 Min:   142 Max:   825 Err:     2 (1.20%) Active: 0 Started: 50 Finished: 50
+summary =    850 in 00:01:44 =    8.2/s Avg:   363 Min:   142 Max:  3122 Err:    23 (2.71%)
+Tidying up ...    @ 2025 Jan 18 21:23:51 GMT+05:00 (1737217431879)
+Error generating the report: org.apache.jmeter.report.core.SampleException: Could not locate input sample files !
+... end of run
+Creating parser with percentiles:'0,50,90,95,100,' filterRegex:
+Performance: Recording JMeterCsv reports 'C:\ProgramData\Jenkins\.jenkins\jobs\JMeterPerformanceTest\builds\9\temp\results.jtl'
+Performance: JMeterCsv copying reports to master, files '[C:\ProgramData\Jenkins\.jenkins\jobs\JMeterPerformanceTest\builds\9\temp\results.jtl]'
+Performance: JMeterCsv parsing local reports '[C:\ProgramData\Jenkins\.jenkins\jobs\JMeterPerformanceTest\builds\9\performance-reports\JMeterCSV\results.jtl]'
+Performance: Parsing report file 'C:\ProgramData\Jenkins\.jenkins\jobs\JMeterPerformanceTest\builds\9\performance-reports\JMeterCSV\results.jtl' with filterRegex ''.
+Performance: No threshold configured for making the test unstable
+Performance: No threshold configured for making the test failure
+Performance: File results.jtl reported 0.212% of errors [SUCCESS]. Build status is: SUCCESS
+Finished: SUCCESS

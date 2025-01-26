@@ -1,0 +1,120 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1737219784770,17422,Get Posts,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: jsonplaceholder.typicode.com:80 failed to respond,Thread Group 1-2,text,false,get post assertion failed,2109,0,5,5,http://jsonplaceholder.typicode.com/posts,0,0,1159
+1737219782879,21471,Get Posts,200,OK,Thread Group 1-1,text,true,,28842,135,5,5,http://jsonplaceholder.typicode.com/posts,21465,0,21253
+1737219804352,298,Get User Albums ,200,OK,Thread Group 1-1,text,true,,2150,144,5,5,http://jsonplaceholder.typicode.com/users/1/albums,298,0,0
+1737219804679,175,Get User Todos,200,OK,Thread Group 1-1,text,true,,3606,143,5,5,http://jsonplaceholder.typicode.com/users/1/todos,175,0,0
+1737219804855,203,Get Albums Photos,200,OK,Thread Group 1-1,text,true,,12067,145,5,5,http://jsonplaceholder.typicode.com/albums/1/photos,202,0,0
+1737219805059,159,Get Post Comments By Id,200,OK,Thread Group 1-1,text,true,,2842,147,5,5,http://jsonplaceholder.typicode.com/comments?postId=1,157,0,0
+1737219805219,254,Get Post Comments,200,OK,Thread Group 1-1,text,true,,2842,146,5,5,http://jsonplaceholder.typicode.com/posts/1/comments,254,0,0
+1737219805474,199,Get Posts By Id,200,OK,Thread Group 1-1,text,false,"The result was the wrong size: It was 1,635 bytes, but should have been less than or equal to 1,634 bytes.",1635,137,5,5,http://jsonplaceholder.typicode.com/posts/1,199,0,0
+1737219805679,406,Post User Posts,201,Created,Thread Group 1-1,text,true,,1466,497,5,5,http://jsonplaceholder.typicode.com/users/1/posts,406,0,0
+1737219806086,419,Post User Todos,201,Created,Thread Group 1-1,text,true,,1470,285,5,5,http://jsonplaceholder.typicode.com/users/1/todos,419,0,0
+1737219806507,405,Post User Albums ,201,Created,Thread Group 1-1,text,true,,1471,262,5,5,http://jsonplaceholder.typicode.com/users/1/albums,405,0,0
+1737219806913,342,Post Albums Photos,201,Created,Thread Group 1-1,text,true,,1487,414,5,5,http://jsonplaceholder.typicode.com/albums/1/photos,342,0,0
+1737219807257,362,Post Request,201,Created,Thread Group 1-1,text,true,,1507,246,5,5,http://jsonplaceholder.typicode.com/posts,362,0,0
+1737219807621,408,Delete Post,200,OK,Thread Group 1-1,text,true,,1315,223,5,5,http://jsonplaceholder.typicode.com/posts/1,408,0,0
+1737219808032,409,Put Post request,200,OK,Thread Group 1-1,text,true,,1381,278,5,5,http://jsonplaceholder.typicode.com/posts/1,409,0,0
+1737219808443,328,Options User Todos,204,No Content,Thread Group 1-1,,true,,1205,147,5,5,http://jsonplaceholder.typicode.com/users/1/todos,0,0,0
+1737219808772,382,Options User Albums ,204,No Content,Thread Group 1-1,,true,,1213,148,5,5,http://jsonplaceholder.typicode.com/users/1/albums,0,0,0
+1737219786762,22794,Get Posts,200,OK,Thread Group 1-3,text,true,,28842,135,5,5,http://jsonplaceholder.typicode.com/posts,21472,0,21263
+1737219809565,204,Get User Albums ,200,OK,Thread Group 1-3,text,true,,2149,144,5,5,http://jsonplaceholder.typicode.com/users/1/albums,204,0,0
+1737219809155,735,Options Albums Photos,204,No Content,Thread Group 1-1,,true,,1213,149,5,5,http://jsonplaceholder.typicode.com/albums/1/photos,0,0,0
+1737219809770,156,Get User Todos,200,OK,Thread Group 1-3,text,true,,3606,143,4,4,http://jsonplaceholder.typicode.com/users/1/todos,156,0,0
+1737219788765,21314,Get Posts,200,OK,Thread Group 1-4,text,true,,28842,135,4,4,http://jsonplaceholder.typicode.com/posts,21311,0,21166
+1737219809927,161,Get Albums Photos,200,OK,Thread Group 1-3,text,true,,12067,145,4,4,http://jsonplaceholder.typicode.com/albums/1/photos,160,0,0
+1737219810085,145,Get User Albums ,200,OK,Thread Group 1-4,text,true,,2150,144,4,4,http://jsonplaceholder.typicode.com/users/1/albums,145,0,0
+1737219810089,156,Get Post Comments By Id,200,OK,Thread Group 1-3,text,true,,2841,147,4,4,http://jsonplaceholder.typicode.com/comments?postId=1,156,0,0
+1737219810246,243,Get Post Comments,200,OK,Thread Group 1-3,text,true,,2841,146,4,4,http://jsonplaceholder.typicode.com/posts/1/comments,243,0,0
+1737219810232,269,Get User Todos,200,OK,Thread Group 1-4,text,true,,3607,143,4,4,http://jsonplaceholder.typicode.com/users/1/todos,269,0,0
+1737219810502,190,Get Albums Photos,200,OK,Thread Group 1-4,text,true,,12068,145,4,4,http://jsonplaceholder.typicode.com/albums/1/photos,189,0,0
+1737219810693,148,Get Post Comments By Id,200,OK,Thread Group 1-4,text,true,,2842,147,4,4,http://jsonplaceholder.typicode.com/comments?postId=1,148,0,0
+1737219810842,172,Get Post Comments,200,OK,Thread Group 1-4,text,true,,2842,146,4,4,http://jsonplaceholder.typicode.com/posts/1/comments,171,0,0
+1737219811018,183,Get Posts By Id,200,OK,Thread Group 1-4,text,false,"The result was the wrong size: It was 1,635 bytes, but should have been less than or equal to 1,634 bytes.",1635,137,4,4,http://jsonplaceholder.typicode.com/posts/1,183,0,0
+1737219810490,830,Get Posts By Id,200,OK,Thread Group 1-3,text,true,,1634,137,4,4,http://jsonplaceholder.typicode.com/posts/1,704,0,0
+1737219811203,340,Post User Posts,201,Created,Thread Group 1-4,text,true,,1470,497,4,4,http://jsonplaceholder.typicode.com/users/1/posts,340,0,0
+1737219811321,392,Post User Posts,201,Created,Thread Group 1-3,text,true,,1468,497,4,4,http://jsonplaceholder.typicode.com/users/1/posts,392,0,0
+1737219811544,333,Post User Todos,201,Created,Thread Group 1-4,text,true,,1470,285,4,4,http://jsonplaceholder.typicode.com/users/1/todos,333,0,0
+1737219811714,356,Post User Todos,201,Created,Thread Group 1-3,text,true,,1465,285,4,4,http://jsonplaceholder.typicode.com/users/1/todos,356,0,0
+1737219790772,21356,Get Posts,200,OK,Thread Group 1-5,text,true,,28842,135,4,4,http://jsonplaceholder.typicode.com/posts,21355,0,21192
+1737219811878,338,Post User Albums ,201,Created,Thread Group 1-4,text,true,,1467,262,4,4,http://jsonplaceholder.typicode.com/users/1/albums,337,0,0
+1737219812071,360,Post User Albums ,201,Created,Thread Group 1-3,text,true,,1466,262,4,4,http://jsonplaceholder.typicode.com/users/1/albums,360,0,0
+1737219812216,344,Post Albums Photos,201,Created,Thread Group 1-4,text,true,,1471,414,4,4,http://jsonplaceholder.typicode.com/albums/1/photos,344,0,0
+1737219812433,345,Post Albums Photos,201,Created,Thread Group 1-3,text,true,,1470,414,4,4,http://jsonplaceholder.typicode.com/albums/1/photos,345,0,0
+1737219812561,382,Post Request,201,Created,Thread Group 1-4,text,true,,1491,246,4,4,http://jsonplaceholder.typicode.com/posts,382,0,0
+1737219812129,896,Get User Albums ,200,OK,Thread Group 1-5,text,true,,2150,144,4,4,http://jsonplaceholder.typicode.com/users/1/albums,896,0,0
+1737219812780,346,Post Request,201,Created,Thread Group 1-3,text,true,,1498,246,4,4,http://jsonplaceholder.typicode.com/posts,345,0,0
+1737219813026,157,Get User Todos,200,OK,Thread Group 1-5,text,true,,3605,143,4,4,http://jsonplaceholder.typicode.com/users/1/todos,157,0,0
+1737219812944,341,Delete Post,200,OK,Thread Group 1-4,text,true,,1307,223,4,4,http://jsonplaceholder.typicode.com/posts/1,341,0,0
+1737219813184,157,Get Albums Photos,200,OK,Thread Group 1-5,text,true,,12067,145,4,4,http://jsonplaceholder.typicode.com/albums/1/photos,157,0,0
+1737219813127,345,Delete Post,200,OK,Thread Group 1-3,text,true,,1306,223,4,4,http://jsonplaceholder.typicode.com/posts/1,345,0,0
+1737219813342,157,Get Post Comments By Id,200,OK,Thread Group 1-5,text,true,,2841,147,4,4,http://jsonplaceholder.typicode.com/comments?postId=1,157,0,0
+1737219813286,350,Put Post request,200,OK,Thread Group 1-4,text,true,,1389,278,4,4,http://jsonplaceholder.typicode.com/posts/1,349,0,0
+1737219813500,162,Get Post Comments,200,OK,Thread Group 1-5,text,true,,2840,146,4,4,http://jsonplaceholder.typicode.com/posts/1/comments,162,0,0
+1737219813472,393,Put Post request,200,OK,Thread Group 1-3,text,true,,1388,278,4,4,http://jsonplaceholder.typicode.com/posts/1,392,0,0
+1737219813663,202,Get Posts By Id,200,OK,Thread Group 1-5,text,true,,1633,137,4,4,http://jsonplaceholder.typicode.com/posts/1,202,0,0
+1737219813636,331,Options User Todos,204,No Content,Thread Group 1-4,,true,,1213,147,4,4,http://jsonplaceholder.typicode.com/users/1/todos,0,0,0
+1737219813866,344,Options User Todos,204,No Content,Thread Group 1-3,,true,,1208,147,4,4,http://jsonplaceholder.typicode.com/users/1/todos,0,0,0
+1737219813869,354,Post User Posts,201,Created,Thread Group 1-5,text,true,,1469,497,4,4,http://jsonplaceholder.typicode.com/users/1/posts,354,0,0
+1737219814211,369,Options User Albums ,204,No Content,Thread Group 1-3,,true,,1208,148,4,4,http://jsonplaceholder.typicode.com/users/1/albums,0,0,0
+1737219814224,358,Post User Todos,201,Created,Thread Group 1-5,text,true,,1469,285,4,4,http://jsonplaceholder.typicode.com/users/1/todos,358,0,0
+1737219813967,686,Options User Albums ,204,No Content,Thread Group 1-4,,true,,1209,148,4,4,http://jsonplaceholder.typicode.com/users/1/albums,0,0,0
+1737219814582,352,Post User Albums ,201,Created,Thread Group 1-5,text,true,,1470,262,4,4,http://jsonplaceholder.typicode.com/users/1/albums,352,0,0
+1737219814581,358,Options Albums Photos,204,No Content,Thread Group 1-3,,true,,1208,149,4,4,http://jsonplaceholder.typicode.com/albums/1/photos,0,0,0
+1737219814656,346,Options Albums Photos,204,No Content,Thread Group 1-4,,true,,1209,149,3,3,http://jsonplaceholder.typicode.com/albums/1/photos,0,0,0
+1737219814935,466,Post Albums Photos,201,Created,Thread Group 1-5,text,true,,1469,414,2,2,http://jsonplaceholder.typicode.com/albums/1/photos,466,0,0
+1737219815402,408,Post Request,201,Created,Thread Group 1-5,text,true,,1490,246,2,2,http://jsonplaceholder.typicode.com/posts,407,0,0
+1737219815811,409,Delete Post,200,OK,Thread Group 1-5,text,true,,1298,223,2,2,http://jsonplaceholder.typicode.com/posts/1,409,0,0
+1737219816222,407,Put Post request,200,OK,Thread Group 1-5,text,true,,1380,278,2,2,http://jsonplaceholder.typicode.com/posts/1,407,0,0
+1737219816630,409,Options User Todos,204,No Content,Thread Group 1-5,,true,,1204,147,2,2,http://jsonplaceholder.typicode.com/users/1/todos,0,0,0
+1737219817040,414,Options User Albums ,204,No Content,Thread Group 1-5,,true,,1212,148,2,2,http://jsonplaceholder.typicode.com/users/1/albums,0,0,0
+1737219817454,408,Options Albums Photos,204,No Content,Thread Group 1-5,,true,,1212,149,2,2,http://jsonplaceholder.typicode.com/albums/1/photos,0,0,0
+1737219802202,172431,Get User Albums ,Non HTTP response code: java.net.SocketException,"Non HTTP response message: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond",Thread Group 1-2,text,false,"Filter: [0]['userId'] can only be applied to arrays. Current context is: java.net.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:46)
+	at java.base/sun.nio.ch.NioSocketImpl.tryRead(NioSocketImpl.java:256)
+	at java.base/sun.nio.ch.NioSocketImpl.implRead(NioSocketImpl.java:307)
+	at java.base/sun.nio.ch.NioSocketImpl.read(NioSocketImpl.java:346)
+	at java.base/sun.nio.ch.NioSocketImpl$1.read(NioSocketImpl.java:796)
+	at java.base/java.net.Socket$SocketInputStream.implRead(Socket.java:1116)
+	at java.base/java.net.Socket$SocketInputStream.read(Socket.java:1103)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:153)
+	at org.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:280)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:138)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:56)
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)
+	at org.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:157)
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:272)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.apache.jmeter.protocol.http.sampler.HTTPHC4Impl.executeRequest(HTTPHC4Impl.java:940)
+	at org.apache.jmeter.protocol.http.sampler.HTTPHC4Impl.sample(HTTPHC4Impl.java:651)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerProxy.sample(HTTPSamplerProxy.java:66)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.sample(HTTPSamplerBase.java:1311)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.sample(HTTPSamplerBase.java:1300)
+	at org.apache.jmeter.threads.JMeterThread.doSampling(JMeterThread.java:651)
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:570)
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:501)
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:268)
+	at java.base/java.lang.Thread.run(Thread.java:1575)",3084,0,1,1,http://jsonplaceholder.typicode.com/users/1/albums,0,0,16267
+1737219974638,505,Get User Todos,200,OK,Thread Group 1-2,text,false,"The operation lasted too long: It took 505 milliseconds, but should not have lasted longer than 500 milliseconds.",3596,143,1,1,http://jsonplaceholder.typicode.com/users/1/todos,505,0,320
+1737219975144,211,Get Albums Photos,200,OK,Thread Group 1-2,text,true,,12064,145,1,1,http://jsonplaceholder.typicode.com/albums/1/photos,211,0,0
+1737219975357,198,Get Post Comments By Id,200,OK,Thread Group 1-2,text,true,,2840,147,1,1,http://jsonplaceholder.typicode.com/comments?postId=1,198,0,0
+1737219975556,201,Get Post Comments,200,OK,Thread Group 1-2,text,true,,2840,146,1,1,http://jsonplaceholder.typicode.com/posts/1/comments,201,0,0
+1737219975758,203,Get Posts By Id,200,OK,Thread Group 1-2,text,true,,1634,137,1,1,http://jsonplaceholder.typicode.com/posts/1,203,0,0
+1737219975962,411,Post User Posts,201,Created,Thread Group 1-2,text,true,,1465,497,1,1,http://jsonplaceholder.typicode.com/users/1/posts,411,0,0
+1737219976374,408,Post User Todos,201,Created,Thread Group 1-2,text,true,,1465,285,1,1,http://jsonplaceholder.typicode.com/users/1/todos,408,0,0
+1737219976783,407,Post User Albums ,201,Created,Thread Group 1-2,text,true,,1478,262,1,1,http://jsonplaceholder.typicode.com/users/1/albums,407,0,0
+1737219977191,512,Post Albums Photos,201,Created,Thread Group 1-2,text,true,,1482,414,1,1,http://jsonplaceholder.typicode.com/albums/1/photos,512,0,0
+1737219977703,414,Post Request,201,Created,Thread Group 1-2,text,true,,1494,246,1,1,http://jsonplaceholder.typicode.com/posts,414,0,0
+1737219978118,508,Delete Post,200,OK,Thread Group 1-2,text,true,,1302,223,1,1,http://jsonplaceholder.typicode.com/posts/1,508,0,0
+1737219978627,406,Put Post request,200,OK,Thread Group 1-2,text,true,,1384,278,1,1,http://jsonplaceholder.typicode.com/posts/1,406,0,0
+1737219979037,406,Options User Todos,204,No Content,Thread Group 1-2,,true,,1208,147,1,1,http://jsonplaceholder.typicode.com/users/1/todos,0,0,0
+1737219979444,408,Options User Albums ,204,No Content,Thread Group 1-2,,true,,1208,148,1,1,http://jsonplaceholder.typicode.com/users/1/albums,0,0,0
+1737219979853,512,Options Albums Photos,204,No Content,Thread Group 1-2,,true,,1204,149,1,1,http://jsonplaceholder.typicode.com/albums/1/photos,0,0,0

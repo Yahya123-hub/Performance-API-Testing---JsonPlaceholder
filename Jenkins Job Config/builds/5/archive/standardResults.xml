@@ -1,0 +1,207 @@
+<?xml version="1.0"?>
+<results>
+<api>
+	<uri>Delete Post</uri>
+	<samples>1</samples>
+	<average>407</average>
+	<min>407</min>
+	<median>407</median>
+	<ninetieth>407</ninetieth>
+	<ninetyFifth>407</ninetyFifth>
+	<max>407</max>
+	<httpCode>200</httpCode>
+	<errors>0.0</errors>
+</api>
+<api>
+	<uri>Get Albums Photos</uri>
+	<samples>1</samples>
+	<average>206</average>
+	<min>206</min>
+	<median>206</median>
+	<ninetieth>206</ninetieth>
+	<ninetyFifth>206</ninetyFifth>
+	<max>206</max>
+	<httpCode>200</httpCode>
+	<errors>0.0</errors>
+</api>
+<api>
+	<uri>Get Post Comments</uri>
+	<samples>1</samples>
+	<average>204</average>
+	<min>204</min>
+	<median>204</median>
+	<ninetieth>204</ninetieth>
+	<ninetyFifth>204</ninetyFifth>
+	<max>204</max>
+	<httpCode>200</httpCode>
+	<errors>0.0</errors>
+</api>
+<api>
+	<uri>Get Post Comments By Id</uri>
+	<samples>1</samples>
+	<average>306</average>
+	<min>306</min>
+	<median>306</median>
+	<ninetieth>306</ninetieth>
+	<ninetyFifth>306</ninetyFifth>
+	<max>306</max>
+	<httpCode>200</httpCode>
+	<errors>0.0</errors>
+</api>
+<api>
+	<uri>Get Posts</uri>
+	<samples>1</samples>
+	<average>931</average>
+	<min>931</min>
+	<median>931</median>
+	<ninetieth>931</ninetieth>
+	<ninetyFifth>931</ninetyFifth>
+	<max>931</max>
+	<httpCode>200</httpCode>
+	<errors>0.0</errors>
+</api>
+<api>
+	<uri>Get Posts By Id</uri>
+	<samples>1</samples>
+	<average>202</average>
+	<min>202</min>
+	<median>202</median>
+	<ninetieth>202</ninetieth>
+	<ninetyFifth>202</ninetyFifth>
+	<max>202</max>
+	<httpCode>200</httpCode>
+	<errors>0.0</errors>
+</api>
+<api>
+	<uri>Get User Albums </uri>
+	<samples>1</samples>
+	<average>198</average>
+	<min>198</min>
+	<median>198</median>
+	<ninetieth>198</ninetieth>
+	<ninetyFifth>198</ninetyFifth>
+	<max>198</max>
+	<httpCode>200</httpCode>
+	<errors>0.0</errors>
+</api>
+<api>
+	<uri>Get User Todos</uri>
+	<samples>1</samples>
+	<average>377</average>
+	<min>377</min>
+	<median>377</median>
+	<ninetieth>377</ninetieth>
+	<ninetyFifth>377</ninetyFifth>
+	<max>377</max>
+	<httpCode>200</httpCode>
+	<errors>0.0</errors>
+</api>
+<api>
+	<uri>Options Albums Photos</uri>
+	<samples>1</samples>
+	<average>352</average>
+	<min>352</min>
+	<median>352</median>
+	<ninetieth>352</ninetieth>
+	<ninetyFifth>352</ninetyFifth>
+	<max>352</max>
+	<httpCode>204</httpCode>
+	<errors>0.0</errors>
+</api>
+<api>
+	<uri>Options User Albums </uri>
+	<samples>1</samples>
+	<average>410</average>
+	<min>410</min>
+	<median>410</median>
+	<ninetieth>410</ninetieth>
+	<ninetyFifth>410</ninetyFifth>
+	<max>410</max>
+	<httpCode>204</httpCode>
+	<errors>0.0</errors>
+</api>
+<api>
+	<uri>Options User Todos</uri>
+	<samples>1</samples>
+	<average>407</average>
+	<min>407</min>
+	<median>407</median>
+	<ninetieth>407</ninetieth>
+	<ninetyFifth>407</ninetyFifth>
+	<max>407</max>
+	<httpCode>204</httpCode>
+	<errors>0.0</errors>
+</api>
+<api>
+	<uri>Post Albums Photos</uri>
+	<samples>1</samples>
+	<average>1285</average>
+	<min>1285</min>
+	<median>1285</median>
+	<ninetieth>1285</ninetieth>
+	<ninetyFifth>1285</ninetyFifth>
+	<max>1285</max>
+	<httpCode>201</httpCode>
+	<errors>0.0</errors>
+</api>
+<api>
+	<uri>Post Request</uri>
+	<samples>1</samples>
+	<average>407</average>
+	<min>407</min>
+	<median>407</median>
+	<ninetieth>407</ninetieth>
+	<ninetyFifth>407</ninetyFifth>
+	<max>407</max>
+	<httpCode>201</httpCode>
+	<errors>0.0</errors>
+</api>
+<api>
+	<uri>Post User Albums </uri>
+	<samples>1</samples>
+	<average>352</average>
+	<min>352</min>
+	<median>352</median>
+	<ninetieth>352</ninetieth>
+	<ninetyFifth>352</ninetyFifth>
+	<max>352</max>
+	<httpCode>201</httpCode>
+	<errors>0.0</errors>
+</api>
+<api>
+	<uri>Post User Posts</uri>
+	<samples>1</samples>
+	<average>408</average>
+	<min>408</min>
+	<median>408</median>
+	<ninetieth>408</ninetieth>
+	<ninetyFifth>408</ninetyFifth>
+	<max>408</max>
+	<httpCode>201</httpCode>
+	<errors>0.0</errors>
+</api>
+<api>
+	<uri>Post User Todos</uri>
+	<samples>1</samples>
+	<average>511</average>
+	<min>511</min>
+	<median>511</median>
+	<ninetieth>511</ninetieth>
+	<ninetyFifth>511</ninetyFifth>
+	<max>511</max>
+	<httpCode>201</httpCode>
+	<errors>0.0</errors>
+</api>
+<api>
+	<uri>Put Post request</uri>
+	<samples>1</samples>
+	<average>411</average>
+	<min>411</min>
+	<median>411</median>
+	<ninetieth>411</ninetieth>
+	<ninetyFifth>411</ninetyFifth>
+	<max>411</max>
+	<httpCode>200</httpCode>
+	<errors>0.0</errors>
+</api>
+</results>

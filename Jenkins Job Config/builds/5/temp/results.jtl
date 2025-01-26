@@ -1,0 +1,18 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1737216282529,931,Get Posts,200,OK,Thread Group 1-1,text,true,,28843,135,1,1,http://jsonplaceholder.typicode.com/posts,746,0,526
+1737216283463,198,Get User Albums ,200,OK,Thread Group 1-1,text,true,,2149,144,1,1,http://jsonplaceholder.typicode.com/users/1/albums,198,0,0
+1737216283692,377,Get User Todos,200,OK,Thread Group 1-1,text,true,,3605,143,1,1,http://jsonplaceholder.typicode.com/users/1/todos,175,0,0
+1737216284070,206,Get Albums Photos,200,OK,Thread Group 1-1,text,true,,12065,145,1,1,http://jsonplaceholder.typicode.com/albums/1/photos,205,0,0
+1737216284277,306,Get Post Comments By Id,200,OK,Thread Group 1-1,text,true,,2840,147,1,1,http://jsonplaceholder.typicode.com/comments?postId=1,306,0,0
+1737216284584,204,Get Post Comments,200,OK,Thread Group 1-1,text,true,,2840,146,1,1,http://jsonplaceholder.typicode.com/posts/1/comments,203,0,0
+1737216284789,202,Get Posts By Id,200,OK,Thread Group 1-1,text,true,,1633,137,1,1,http://jsonplaceholder.typicode.com/posts/1,202,0,0
+1737216284993,408,Post User Posts,201,Created,Thread Group 1-1,text,true,,1481,497,1,1,http://jsonplaceholder.typicode.com/users/1/posts,408,0,0
+1737216285403,511,Post User Todos,201,Created,Thread Group 1-1,text,true,,1481,285,1,1,http://jsonplaceholder.typicode.com/users/1/todos,511,0,0
+1737216285915,352,Post User Albums ,201,Created,Thread Group 1-1,text,true,,1474,262,1,1,http://jsonplaceholder.typicode.com/users/1/albums,352,0,0
+1737216286267,1285,Post Albums Photos,201,Created,Thread Group 1-1,text,true,,1478,414,1,1,http://jsonplaceholder.typicode.com/albums/1/photos,1285,0,0
+1737216287558,407,Post Request,201,Created,Thread Group 1-1,text,true,,1497,246,1,1,http://jsonplaceholder.typicode.com/posts,407,0,0
+1737216287966,407,Delete Post,200,OK,Thread Group 1-1,text,true,,1302,223,1,1,http://jsonplaceholder.typicode.com/posts/1,407,0,0
+1737216288375,411,Put Post request,200,OK,Thread Group 1-1,text,true,,1384,278,1,1,http://jsonplaceholder.typicode.com/posts/1,411,0,0
+1737216288787,407,Options User Todos,204,No Content,Thread Group 1-1,,true,,1220,147,1,1,http://jsonplaceholder.typicode.com/users/1/todos,0,0,0
+1737216289195,410,Options User Albums ,204,No Content,Thread Group 1-1,,true,,1220,148,1,1,http://jsonplaceholder.typicode.com/users/1/albums,0,0,0
+1737216289606,352,Options Albums Photos,204,No Content,Thread Group 1-1,,true,,1220,149,1,1,http://jsonplaceholder.typicode.com/albums/1/photos,0,0,0

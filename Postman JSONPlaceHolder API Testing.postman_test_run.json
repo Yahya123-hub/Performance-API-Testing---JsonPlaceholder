@@ -1,0 +1,387 @@
+{
+	"id": "f2ccdc3f-2c76-4f66-a0b5-a96d2467cf09",
+	"name": "JSONPlaceHolder API Testing",
+	"timestamp": "2025-01-18T14:35:37.164Z",
+	"collection_id": "30362038-327e09e8-e55a-4279-95e9-6c832ca0618e",
+	"folder_id": 0,
+	"environment_id": "0",
+	"totalPass": 17,
+	"delay": 0,
+	"persist": true,
+	"status": "finished",
+	"startedAt": "2025-01-18T14:35:33.079Z",
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "5ba2ca30-f9e7-4239-bfe7-bd232bbcf8e1",
+			"name": "Get posts",
+			"url": "https://jsonplaceholder.typicode.com/posts",
+			"time": 692,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Response has userId key": true,
+				"Response contains a specific userId": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response has userId key": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response contains a specific userId": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				692
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Response has userId key": true,
+					"Response contains a specific userId": true
+				}
+			]
+		},
+		{
+			"id": "17ac6107-f69a-442e-b1f5-2b044b970e14",
+			"name": "Get posts 1",
+			"url": "https://jsonplaceholder.typicode.com/posts/1",
+			"time": 156,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Response has id key": true,
+				"Response contains 'title'": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response has id key": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response contains 'title'": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				156
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Response has id key": true,
+					"Response contains 'title'": true
+				}
+			]
+		},
+		{
+			"id": "d53023d1-19b7-428b-bec5-a0b8761ac501",
+			"name": "Get posts Comments",
+			"url": "https://jsonplaceholder.typicode.com/posts/1/comments",
+			"time": 152,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Response has postId key": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response has postId key": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				152
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Response has postId key": true
+				}
+			]
+		},
+		{
+			"id": "9ca47463-1a24-463e-920c-f00ad4d924fb",
+			"name": "Put Post",
+			"url": "https://jsonplaceholder.typicode.com/posts/1",
+			"time": 248,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				248
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "4222d053-e989-41c8-8514-79daf9c9afe1",
+			"name": "Delete Request",
+			"url": "https://jsonplaceholder.typicode.com/posts/1",
+			"time": 441,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				441
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "44907a71-99f2-41c0-8a43-639b0fffb9a4",
+			"name": "Post Request",
+			"url": "https://jsonplaceholder.typicode.com/posts",
+			"time": 253,
+			"responseCode": {
+				"code": 201,
+				"name": "Created"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				253
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "ba4ee4e8-0548-4a0c-a78c-8afbd27e6b9a",
+			"name": "Patch Request",
+			"url": "https://jsonplaceholder.typicode.com/posts/1",
+			"time": 238,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Title is updated": true,
+				"Content-Type is application/json": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Title is updated": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is application/json": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				238
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Title is updated": true,
+					"Content-Type is application/json": true
+				}
+			]
+		},
+		{
+			"id": "a055c208-e0cc-4411-aadd-57955d2e767d",
+			"name": "Get Album Photos Request",
+			"url": "https://jsonplaceholder.typicode.com/users/1/albums",
+			"time": 162,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Multiple assertions": true
+			},
+			"testPassFailCounts": {
+				"Multiple assertions": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				162
+			],
+			"allTests": [
+				{
+					"Multiple assertions": true
+				}
+			]
+		},
+		{
+			"id": "9b05b093-d661-4e80-8348-0a6497755c26",
+			"name": "Get  User Album",
+			"url": "https://jsonplaceholder.typicode.com/albums/1/photos",
+			"time": 153,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				153
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "289f74b7-766c-4f46-ba26-f6432245f1cd",
+			"name": "Get User Todos",
+			"url": "https://jsonplaceholder.typicode.com/users/1/todos",
+			"time": 157,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Response has correct userId": true,
+				"Title field exists in the response": true
+			},
+			"testPassFailCounts": {
+				"Response has correct userId": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Title field exists in the response": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				157
+			],
+			"allTests": [
+				{
+					"Response has correct userId": true,
+					"Title field exists in the response": true
+				}
+			]
+		},
+		{
+			"id": "95469fb9-f3de-4723-a720-02254c736809",
+			"name": "Get User Posts",
+			"url": "https://jsonplaceholder.typicode.com/users/1/posts",
+			"time": 184,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Response time is less than 200ms": true,
+				"Response has correct userId": true,
+				"Title field exists in the response": true
+			},
+			"testPassFailCounts": {
+				"Response time is less than 200ms": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response has correct userId": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Title field exists in the response": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				184
+			],
+			"allTests": [
+				{
+					"Response time is less than 200ms": true,
+					"Response has correct userId": true,
+					"Title field exists in the response": true
+				}
+			]
+		}
+	],
+	"count": 1,
+	"totalTime": 2836,
+	"collection": {
+		"requests": [
+			{
+				"id": "5ba2ca30-f9e7-4239-bfe7-bd232bbcf8e1",
+				"method": "GET"
+			},
+			{
+				"id": "17ac6107-f69a-442e-b1f5-2b044b970e14",
+				"method": "GET"
+			},
+			{
+				"id": "d53023d1-19b7-428b-bec5-a0b8761ac501",
+				"method": "GET"
+			},
+			{
+				"id": "9ca47463-1a24-463e-920c-f00ad4d924fb",
+				"method": "PUT"
+			},
+			{
+				"id": "4222d053-e989-41c8-8514-79daf9c9afe1",
+				"method": "DELETE"
+			},
+			{
+				"id": "44907a71-99f2-41c0-8a43-639b0fffb9a4",
+				"method": "POST"
+			},
+			{
+				"id": "ba4ee4e8-0548-4a0c-a78c-8afbd27e6b9a",
+				"method": "PATCH"
+			},
+			{
+				"id": "a055c208-e0cc-4411-aadd-57955d2e767d",
+				"method": "GET"
+			},
+			{
+				"id": "9b05b093-d661-4e80-8348-0a6497755c26",
+				"method": "GET"
+			},
+			{
+				"id": "289f74b7-766c-4f46-ba26-f6432245f1cd",
+				"method": "GET"
+			},
+			{
+				"id": "95469fb9-f3de-4723-a720-02254c736809",
+				"method": "GET"
+			}
+		]
+	}
+}
